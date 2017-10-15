@@ -1,3 +1,3 @@
-# [deprecated] GoVue
+# GoVue
 
-This library has been deprecated by [rvue](https://github.com/jcorme/rvue).
+Made for my StudentVIEW project
