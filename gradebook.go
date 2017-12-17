@@ -207,7 +207,7 @@ func (cid *CourseID) UnmarshalXMLAttr(attr xml.Attr) error {
 
 // A Percentage is a floating-point number representing a percentage.
 type Percentage struct {
-	float64
+	Float float64
 }
 
 func (p *Percentage) UnmarshalXMLAttr(attr xml.Attr) error {
